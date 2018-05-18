@@ -1,17 +1,17 @@
 {
-  "name": "vue-svg-loader",
+  "name": "vue-svgo-loader",
   "description": "Use SVG files as Vue Components",
   "version": "0.5.1",
   "keywords": [
-    "vue-svg-loader",
+    "vue-svgo-loader",
     "svg",
     "svgo",
     "loader",
     "webpack",
     "vue"
   ],
-  "bugs": "https://github.com/visualfanatic/vue-svg-loader/issues",
-  "repository": "visualfanatic/vue-svg-loader",
+  "bugs": "https://github.com/visualfanatic/vue-svgo-loader/issues",
+  "repository": "visualfanatic/vue-svgo-loader",
   "license": "MIT",
   "author": "Damian Stasik <npm@coded.pl>",
   "main": "index.js",
